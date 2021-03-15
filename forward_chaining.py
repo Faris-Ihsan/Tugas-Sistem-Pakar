@@ -9,15 +9,15 @@ Original file is located at
 # Forward Chaining
 """
 
-X = "Tweety"
-D = "Terbang"
-E = "Bernyanyi"
+X = "Buaya"
+D = "Buas"
+E = "Bertaring"
 A = "Melompat"
 B = "Memakan Serangga"
-C = "katak"
-F = "Burung Kenari"
-G = "Berwarna Hijau"
-H = "Berwarna Kuning"
+C = "Ayam"
+F = "Hidup di dua alam"
+G = "Halal"
+H = "Haram"
 
 # D = True; E = True
 # A & B = C
@@ -55,7 +55,3 @@ while is_changed:
 print(A1)
 
 print(facts)
-
-"""# Backward Chaining Link :
-## https://nowshad7.blogspot.com/2019/09/backward-chaining.html
-"""
