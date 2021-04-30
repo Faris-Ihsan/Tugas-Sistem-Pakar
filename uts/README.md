@@ -1,5 +1,3 @@
-UTS
+# UTS
 
-Materi:
-
-Prediksi Gaussian Naive Bayer
+Materi: Prediksi Menggunakan Gaussian Naive Bayes
